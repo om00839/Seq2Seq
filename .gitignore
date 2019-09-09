@@ -1,0 +1,11 @@
+# model
+*.pt
+
+# vocab
+*.model
+*.vocab
+
+# data
+*.de
+*.en
+.DS_Store
